@@ -1,9 +1,5 @@
 <script setup>
+import CountriesList from "./components/CountriesList.vue";
 </script>
 
-<template>
-    
-</template>
-
-<style scoped>
-</style>
+<template><CountriesList /></template>
